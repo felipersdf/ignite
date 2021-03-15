@@ -27,9 +27,10 @@ Este repositório consiste em armazenar os códigos produzidos durante os estudo
 
 <div align="center" >
 
-|    Níveis     |                                              Títulos                                              |
-| :-----------: | :-----------------------------------------------------------------------------------------------: |
-| **Chapter I** | [Fundamentos do ReactJS](https://github.com/felipersdf/ignite/tree/master/01-github-explorer)<br> |
+|    Níveis     |                                             Títulos                                             |
+| :-----------: | :---------------------------------------------------------------------------------------------: |
+| **Chapter I** | [Fundamentos do ReactJS](https://github.com/felipersdf/ignite/tree/main/01-github-explorer)<br> |
+| **Chapter II** | [Primeira aplicação web com ReactJS](https://github.com/felipersdf/ignite/tree/main/02-frmoney)<br> |
 
 </div>
 
