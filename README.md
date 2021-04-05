@@ -32,6 +32,7 @@ Este repositório consiste em armazenar os códigos produzidos durante os estudo
 |  **Chapter I**  |                                                                               [Fundamentos do ReactJS](https://github.com/felipersdf/ignite/tree/main/01-github-explorer)<br>                                                                                |
 | **Chapter II**  |                                                                             [Primeira aplicação web com ReactJS](https://github.com/felipersdf/ignite/tree/main/02-frmoney)<br>                                                                              |
 | **Chapter III** | [Fundamentos do NextJS](https://github.com/felipersdf/ignite/tree/main/03-ignews)<br>[Back-end no front-end](https://github.com/felipersdf/ignite/tree/main/03-ignews)<br>[Front-end JAMStack](https://github.com/felipersdf/ignite/tree/main/03-ignews)<br> |
+| **Chapter IV**  |                                                                                 [Construindo interfaces do futuro](https://github.com/felipersdf/ignite/tree/main/04-dashgo)                                                                                 |
 
 </div>
 
