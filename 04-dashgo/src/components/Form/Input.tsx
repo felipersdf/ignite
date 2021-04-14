@@ -5,8 +5,8 @@ import {
   FormLabel,
   Input as ChakraInput,
   InputProps as ChakraInputProps,
+  FormErrorMessage,
 } from '@chakra-ui/react';
-import { FormErrorMessage } from '@chakra-ui/core';
 
 interface InputProps extends ChakraInputProps {
   name: string;
